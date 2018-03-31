@@ -1,5 +1,7 @@
 # web-scrapping-python
 
+The is made possible using the Beautiful Soup package from python which is used for parsing HTML and XML format.
+
 The work is still on as When I try to open the file in excel I am faced with the below error:
 
 "Rankings.csv" is locked for editing by 'another' user.
