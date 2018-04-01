@@ -8,6 +8,8 @@ The work is still on as When I try to open the file in excel I am faced with the
 
 I tried doing every thing like closed the file from python by using 'with' keyword and also deleted the file object from the heap. But nothing happened. I will try keep searching for this and update this thread if I fing something.
 
+Well I have found the solution for this and it is very simple. I just changed the working directory from the one where I have generated the Rankings.csv file to some other directory and the handle to the file is released.
+
 Few important urls that can be studied as part of this:
 
 https://www.dataquest.io/blog/web-scraping-tutorial-python/
